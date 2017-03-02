@@ -24,7 +24,7 @@ namespace All_Things_Important
                       "~/Scripts/respond.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap.css",
+                      "~/Content/journal.bootstrap.css",
                       "~/Content/site.css"));
         }
     }
